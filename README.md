@@ -1,1 +1,1 @@
-This is an a responsive  frontend design with a shopping cart using JS  
+This is a responsive  frontend design with a shopping cart using JS  
